@@ -1,5 +1,5 @@
 # hello-world
-My first repository
+
 
 It's just goofing around with stuff.
 
